@@ -1,4 +1,4 @@
-# USNews
+# USNews Simulator
 A visual analytical tool which simulates UGA ranking based on quantitative and qualitative measures that education experts have proposed as a reliable indicator of academic quality, it is based on research views of what matters in education.
 
 The college experience cannot be measured by a series of data points. But for families concerned with finding the best academic value for their money, USNews Best College Ranking provide an excellent starting point for the search. They help you compare at a glance the relative quality of institutions based on such widely accepted indicators of excellence as first-year retention rates, graduation rates and the strength of the faculty.

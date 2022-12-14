@@ -75,7 +75,4 @@ In above user interface image (1) the bell curve on right denote the predicted f
 
 In above image (2) of user interface in new values column I make a change in PCT_FAC_PHD whose weight is 3% of overall score from 0.936 to 0.956 and press new simulation button which again generate 50,000 new values and plot another bell curve on top of default bell curve. As you can see on right side of image the new rank predicted by the simulation is 59. Reset button resets the fields and generate default simulation again. 
 
-![Test Image](Screen3.png {width=40px height=400px})
-
-In Image (3) on left shows the slider. In this slider there are two pointer which denote values of default and new value. Blue on top denotes default value and green at bottom denote new value. The range from -1.6 to 1.6 shows the how much wiggle room you have
 
